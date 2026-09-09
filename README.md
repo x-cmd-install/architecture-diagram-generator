@@ -7,7 +7,7 @@ Generate beautiful dark-themed system architecture diagrams as standalone HTML/S
 - **Latest release**: `1.1` (2026-05-09)
 - **Last commit**: 2026-05-13
 - **License**: MIT
-- **Stars**: 7178 · **Forks**: 555 · **Open issues**: 1 · **Contributors**: 2
+- **Stars**: 7186 · **Forks**: 555 · **Open issues**: 2 · **Contributors**: 2
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/architecture-diagram-generator> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:35:16Z._
+_Last regenerated: 2026-09-09T18:36:41Z._

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8646,
       "digest": "sha256:52ef080c73c7d970ee1afb0ae1757d29693a0a89a0b265982984c95cf63b49b1",
-      "download_count": 1209,
+      "download_count": 1212,
       "created_at": "2026-05-09T02:08:09Z",
       "updated_at": "2026-05-09T02:08:10Z",
       "browser_download_url": "https://github.com/Cocoon-AI/architecture-diagram-generator/releases/download/1.1/architecture-diagram.zip"

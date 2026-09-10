@@ -22,11 +22,16 @@ x install architecture-diagram-generator
 - **Latest**: `1.1` (2026-05-09)
 - **Last commit**: 2026-05-13
 - **Assets in release**: 1
-- **Published**: 2026-05-09T02:08:10Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [architecture-diagram.zip](https://github.com/Cocoon-AI/architecture-diagram-generator/releases/download/1.1/architecture-diagram.zip) | 8.4 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 7,211 · **Forks**: 557 · **Open issues**: 2 · **Contributors**: 2
+- **Stars**: 7,230 · **Forks**: 559 · **Open issues**: 2 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -54,8 +59,8 @@ Total: **574** lines of code across **6** files in the top 5 languages.
 Install metadata for architecture-diagram-generator lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `architecture-diagram-generator` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/architecture-diagram-generator.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/architecture-diagram-generator.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:30:21Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:35Z._

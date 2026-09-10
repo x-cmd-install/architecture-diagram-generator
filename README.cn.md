@@ -4,7 +4,7 @@
 
 Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.    
 
-![architecture-diagram-generator](https://repo.x-cmd.io/architecture-diagram-generator.svg)
+![architecture-diagram-generator](https://repo.x-cmd.io/architecture-diagram-generator.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,16 @@ x install architecture-diagram-generator
 - **最新版本**: `1.1` (2026-05-09)
 - **最近提交**: 2026-05-13
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-05-09T02:08:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [architecture-diagram.zip](https://github.com/Cocoon-AI/architecture-diagram-generator/releases/download/1.1/architecture-diagram.zip) | 8.4 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 7,211 · **Fork**: 557 · **开放 issue**: 2 · **贡献者**: 2
+- **Star**: 7,230 · **Fork**: 559 · **开放 issue**: 2 · **贡献者**: 2
 
 ## 累计统计
 
@@ -58,4 +63,4 @@ architecture-diagram-generator 的安装元数据由 [x-cmd/install](https://git
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:21Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:36Z._

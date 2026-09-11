@@ -12,6 +12,15 @@ Generate beautiful dark-themed system architecture diagrams as standalone HTML/S
 x install architecture-diagram-generator
 ```
 
+## 代码洞察
+
+合计: **574** 行代码（覆盖前 5 种语言、共 **6** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Html | 574 | 67 | 88 | 4 |
+| Markdown | 0 | 282 | 134 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/Cocoon-AI/architecture-diagram-generator>
@@ -23,15 +32,9 @@ x install architecture-diagram-generator
 - **最近提交**: 2026-05-13
 - **Release 含资产**: 1 个
 
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [architecture-diagram.zip](https://github.com/Cocoon-AI/architecture-diagram-generator/releases/download/1.1/architecture-diagram.zip) | 8.4 KiB | `other` |
-
 ## 流行度
 
-- **Star**: 7,230 · **Fork**: 559 · **开放 issue**: 2 · **贡献者**: 2
+- **Star**: 7,235 · **Fork**: 561 · **开放 issue**: 2 · **贡献者**: 2
 
 ## 累计统计
 
@@ -41,18 +44,18 @@ x install architecture-diagram-generator
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 2 | 0 | 0 | 1 | 1 | 12 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-15 | 1 | 0 | 0 | 1 | 1 | 4 |
+| 360d | 2025-09-16 | 2 | 0 | 0 | 1 | 1 | 12 |
+| last720d | 2024-09-21 | 2 | 0 | 0 | 1 | 1 | 12 |
 
-## 代码规模
+## Release 资产
 
-合计: **574** 行代码（覆盖前 5 种语言、共 **6** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Html | 574 | 67 | 88 | 4 |
-| Markdown | 0 | 282 | 134 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [architecture-diagram.zip](https://github.com/Cocoon-AI/architecture-diagram-generator/releases/download/1.1/architecture-diagram.zip) | 8.4 KiB | `other` |
 
 ## 改进这些数据
 
@@ -63,4 +66,4 @@ architecture-diagram-generator 的安装元数据由 [x-cmd/install](https://git
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:36Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:22:15Z._

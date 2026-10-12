@@ -34,7 +34,7 @@ Total: **574** lines of code across **6** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,414 · **Forks**: 568 · **Open issues**: 2 · **Contributors**: 2
+- **Stars**: 7,417 · **Forks**: 569 · **Open issues**: 2 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -44,12 +44,12 @@ Total: **574** lines of code across **6** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-14 | 1 | 0 | 1 | 1 | 1 | 4 |
-| 360d | 2025-10-16 | 2 | 0 | 1 | 1 | 1 | 12 |
-| last720d | 2024-10-21 | 2 | 0 | 1 | 1 | 1 | 12 |
+| 30d | 2026-09-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-15 | 1 | 0 | 1 | 1 | 1 | 4 |
+| 360d | 2025-10-17 | 2 | 0 | 1 | 1 | 1 | 12 |
+| last720d | 2024-10-22 | 2 | 0 | 1 | 1 | 1 | 12 |
 
 ## Release assets
 
@@ -66,4 +66,4 @@ Install metadata for architecture-diagram-generator lives in the [x-cmd/install]
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:37:29Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:46:45Z._
